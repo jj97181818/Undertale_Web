@@ -1,0 +1,59 @@
+body {
+/*     background-image: url('http://orig11.deviantart.net/7d04/f/2015/348/a/5/undertale_logo_chars1_by_clyde_bluesnake-d9k4jrn.png');
+  background-repeat: no-repeat; */
+  font-family: 'Permanent Marker', cursive;
+  background-color: black;
+  color: white;
+}
+a {
+    color: black;
+}
+#header {
+}
+#content {  
+}
+#Gameplay {
+  margin-top: 50px;
+  height: 600px;
+/*   background-color: #b3d9d9; */
+}
+#Plot {
+  height: 250px;
+  /* background-color: white; */
+}
+#Character {
+  height: 3200px;
+  
+/*   background-color: white; */
+}
+#Design {
+  height: 500px;
+/*   background-color: white; */
+}
+#Music {
+  height: 500px;
+/*   background-color: white; */
+}
+#footer {
+  height: 50px;
+  color: black;
+  background-color: gray;
+  text-align: right;
+}
+.border_circle {
+  border-style: hidden;
+  border-color: blue;
+  border-width: 2px;
+  border-radius: 50%;
+}
+.picture_height {
+  height: 200px;
+}
+.name_height {
+  height: 200px;
+  font-size: 30px;
+}
+.word_height {
+  height: 200px;
+  font-size: 15px;
+}
